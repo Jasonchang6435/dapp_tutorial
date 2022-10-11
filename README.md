@@ -1,6 +1,6 @@
-# 3dx-ui
+# web3 dapp tutorial
 
-3dx project mvp UI
+a dapp simple tutorial base on a current business mint contract
 
 ## Project setup
 
@@ -24,4 +24,10 @@ yarn run build:main
 
 ```
 yarn run preview
+```
+
+### enter demo
+
+```
+http://localhost:3000/demo
 ```
